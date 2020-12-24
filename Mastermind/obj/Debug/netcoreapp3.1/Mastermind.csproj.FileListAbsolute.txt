@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\Mastermind.exe
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\Mastermind.deps.json
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\Mastermind.runtimeconfig.json
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\Mastermind.runtimeconfig.dev.json
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\Mastermind.dll
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\Mastermind.pdb
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\Mastermind.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\Mastermind.AssemblyInfo.cs
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\Mastermind.dll
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\Mastermind.pdb
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\Mastermind.genruntimeconfig.cache
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\Mastermind.csprojAssemblyReference.cache

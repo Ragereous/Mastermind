@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\LockTest1.csprojAssemblyReference.cache
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\LockTest1.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\LockTest1.AssemblyInfo.cs
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\LockTest1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\LockTest1.exe
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\LockTest1.deps.json
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\LockTest1.runtimeconfig.json
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\LockTest1.runtimeconfig.dev.json
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\LockTest1.dll
+C:\Users\student\source\repos\LockTest1\LockTest1\bin\Debug\netcoreapp3.1\LockTest1.pdb
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\LockTest1.dll
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\LockTest1.pdb
+C:\Users\student\source\repos\LockTest1\LockTest1\obj\Debug\netcoreapp3.1\LockTest1.genruntimeconfig.cache
